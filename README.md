@@ -3,7 +3,7 @@
 * 开发群：QQ（452137839）
 
 * 开发工具 v0.7
-	* 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
+	* 百度: https://pan.baidu.com/s/1nu89Qel（密码: p3xs）
 	* 360: https://yunpan.cn/ckvTYFHWzYYFV （提取码：e09b）
 
 * 开发工具 v0.9
